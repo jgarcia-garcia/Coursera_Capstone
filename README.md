@@ -1,5 +1,6 @@
 # Coursera_Capstone
 Capstone project for IBM Data Science Professional Certification.
+
 In this project we can find 2 jupyter notebooks:
 
 * Clustering_Toronto_Neighborhoods.ipynb
