@@ -20,8 +20,10 @@ Additionally, we can find as well:
   + We have not cleaned/removed the code as the purpose is to show the Python code in there
 
 * Images folder
+  + Contains pictures and other graphs exporte from notebook and used in the presentation
 
 * Data folder
+  + Contains additional data that has not been obtained through webscrapping
 
 
 
